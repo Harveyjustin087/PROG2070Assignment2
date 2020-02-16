@@ -13,6 +13,9 @@ using System.Threading.Tasks;
 
 namespace PROG2070Assignment2
 {
+    /// <summary>
+    /// This class contains the Analyze method for testing triangles based on the size of their three sides
+    /// </summary>
     public static class TriangleSolver
     {
         /// <summary>

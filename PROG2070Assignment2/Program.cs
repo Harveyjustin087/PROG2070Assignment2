@@ -21,7 +21,7 @@ namespace PROG2070Assignment2
             int sideOne = 0;
             int sideTwo = 0;
             int sideThree = 0;
-            while (selection < 2)
+            while (selection != 2)
             {
                 try
                 {
