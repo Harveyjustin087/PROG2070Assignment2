@@ -63,7 +63,6 @@ namespace PROG2070Assignment2
             {
                 result = "This is an invalid Triangle\n";
             }
-
             return result;
         }
     }

@@ -25,6 +25,7 @@ namespace PROG2070Assignment2
             {
                 try
                 {
+                    Console.WriteLine("---------------------------------------------");
                     Console.WriteLine("Hello Welcome!");
                     Console.WriteLine("---------------------------------------------");
                     Console.WriteLine("1. Enter Triangle Dimensions\n" +
